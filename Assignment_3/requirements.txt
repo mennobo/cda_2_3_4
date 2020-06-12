@@ -3,4 +3,7 @@ numpy
 matplotlib
 sklearn
 yellowbrick
-zipfile
+nltk
+setuptools
+mmh3
+scipy
